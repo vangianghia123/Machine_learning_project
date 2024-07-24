@@ -1,4 +1,4 @@
-# Machine_learning_project
+# Machine_learning_project_Predict_financial_crisis
 
 # DATASET
 
@@ -10,7 +10,7 @@ Dữ liệu bao gồm 1 vài biến về các chỉ số kinh tế, tài chính 
 
 + HANDLE OUTLIERS
 
-#EDA
+# EDA
 
 + Descriptive statistics
 
